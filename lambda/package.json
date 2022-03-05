@@ -1,7 +1,7 @@
 {
-  "name": "hello-world",
+  "name": "rock-paper-scissors",
   "version": "1.2.0",
-  "description": "alexa utility for quickly building skills",
+  "description": "rock-paper-scissors with alexa skill building",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
